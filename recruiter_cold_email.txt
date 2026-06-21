@@ -1,0 +1,18 @@
+Subject: Eager to Contribute as a New Grad Software Engineer / ML Engineer
+
+Hi [Recruiter's/Manager's Name],
+
+I hope this message finds you well. My name is Brian Won, and I'm a recent graduate with a deep passion for Software Engineering and Machine Learning. I am reaching out to express my interest in discussing potential opportunities within your tech team.
+
+Throughout my academic journey, I've specialized in systems machine learning, focusing on model training and developing low-latency inference systems. My practical experience includes building autonomous AI agents using LangChain and LangGraph frameworks, akin to the human-in-the-loop agent system we have implemented successfully.
+
+I am eager to bring my skills in ML and software development to a dynamic team, contributing to innovative projects and learning from industry-leading professionals. Could we possibly arrange a brief call or meeting at your convenience to further explore how my background and projects align with the goals of your organization?
+
+Thank you for considering my application. I look forward to the possibility of joining your team and am excited about the opportunity to contribute to groundbreaking work.
+
+Warm regards,
+
+Brian Won
+
+[Your LinkedIn Profile]  
+[Your Contact Information]
