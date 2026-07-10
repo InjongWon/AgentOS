@@ -51,7 +51,7 @@ Other scripts (`drafter.py`, `reActAgent.py`, `RAG_Agent.py`) can be run the sam
 
 ## Notes
 
-This is a personal learning repo, so scripts are exploratory and may contain rough edges or incomplete pieces rather than production-ready code. Contributions, fixes, and suggestions are welcome via issues or pull requests.
+This is just for langgraph/mcp orchestration repo so scripts are exploratory and may contain rough edges or incomplete pieces rather than production-ready code. Contributions, fixes, and suggestions are welcome via issues or pull requests.
 
 ## License
 
